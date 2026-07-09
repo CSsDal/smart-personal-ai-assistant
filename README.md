@@ -4,7 +4,7 @@ A multi-agent personal assistant (Google Calendar + Gmail + internal Knowledge B
 **LangGraph's Functional API** (`@task` / `@entrypoint`), with retrieval-augmented generation,
 real human-in-the-loop approval, short-term + long-term memory, and LangSmith tracing.
 
-**Author(s):** _: Dalal Albaijan_
+**Name** _: Dalal Albaijan_
 
 ## What's in this repo
 
